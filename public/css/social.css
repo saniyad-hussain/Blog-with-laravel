@@ -1,0 +1,18 @@
+.social li{
+    float: left;
+    margin: 5px;
+    list-style: none;
+    border: 1px;
+    font-size: 15px;
+    border-radius: 2px;
+    background: rgb(40, 61, 180);
+    padding: 5px;
+    font-weight: bold;
+}
+.social li a{
+    color: #fff;
+}
+h2{
+    margin: 8px;
+    color: rgb(231, 89, 89);
+}
